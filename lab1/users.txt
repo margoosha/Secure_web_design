@@ -1,2 +1,2 @@
 admin;12345
-studend;100
+student;100
